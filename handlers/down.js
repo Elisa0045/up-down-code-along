@@ -12,5 +12,6 @@ function downHandler() {
   // render to user
 
   // log user interaction
+  
   //  story name, increment, newCurrent, copy of state
 }
